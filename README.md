@@ -1,16 +1,5 @@
 # cara_ou_coroa
+App que escolhe ao clicar no botão jogar
+![image](https://github.com/user-attachments/assets/6dab6a59-085b-42b5-939b-29a31f0ac0f2)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/c6c6cb8a-c550-491d-be24-50c0e8471f85)
